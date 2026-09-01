@@ -1,0 +1,38 @@
+{
+  "drandRandomness": "0xfe290beca10872ef2fb164d2aa4442de4566183ec51c56ff3cd603d930e54fdd",
+  "drandRound": 1000,
+  "drandSignature": "0xb44679b9a59af2ec876b1a6b1ad52ea9b1615fc3982b19576350f93447cb1125e342b73a8dd2bacbe47e4b6b63ed5e39",
+  "pot": "10000000000",
+  "round": 1,
+  "serverSeed": "0x8d0e029a9fc5f7f1efdaf856cdad40b081af8559b868c276784d5ece64ade560",
+  "tiers": [
+    {
+      "Count": 1,
+      "Bps": 2600
+    },
+    {
+      "Count": 1,
+      "Bps": 1200
+    },
+    {
+      "Count": 1,
+      "Bps": 900
+    },
+    {
+      "Count": 2,
+      "Bps": 550
+    },
+    {
+      "Count": 5,
+      "Bps": 300
+    },
+    {
+      "Count": 10,
+      "Bps": 140
+    },
+    {
+      "Count": 10,
+      "Bps": 130
+    }
+  ]
+}
